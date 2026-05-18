@@ -30,7 +30,7 @@ Garantir a qualidade das principais jornadas do usuário através de testes auto
 ---
 
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```bash
 cypress/
