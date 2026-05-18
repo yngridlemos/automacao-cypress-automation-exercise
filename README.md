@@ -29,8 +29,10 @@ Garantir a qualidade das principais jornadas do usuário através de testes auto
 
 ---
 
-## Estrutura do projeto
 
+## 📂 Estrutura do projeto
+
+```bash
 cypress/
  ├── e2e/
  │   ├── cadastro.feature
@@ -55,12 +57,14 @@ cypress/
  │   ├── e2e.js
  │
  ├── fixtures/
+ │   ├── example.json
+ │
  ├── screenshots/
 
 cypress.config.js
 package.json
+```
 
----
 
 ## Funcionalidades automatizadas
 
